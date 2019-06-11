@@ -1,4 +1,4 @@
 #  Sample MVVMC-RxSwift
 
-Check this awesome [Blog]()
+Check this awesome [Blog](https://www.hanifsgy.com/)
 
